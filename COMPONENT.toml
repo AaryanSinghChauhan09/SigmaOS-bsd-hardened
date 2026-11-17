@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-bsd-hardened"
-description = "HardenedBSD exploit mitigation and ASLR integration"
+description = "SigmaOS BSD Hardened - Security-hardened BSD with ASLR and canary verification"
 version = "0.1.0"
 tier = 2
 
